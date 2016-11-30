@@ -2,4 +2,4 @@ language: php
 php:
 - 7.1
 - 5.6
-script: phpunit
+# script: phpunit
