@@ -14,6 +14,6 @@ class ExampleTest extends TestCase
     public function testBasicExample()
     {
         $this->visit('/welcome')
-             ->see('Laravel12');
+             ->see('Larave');
     }
 }
